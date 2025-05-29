@@ -11,7 +11,7 @@ AdaBoost
 
 These models are trained and evaluated on the CIC-IDS2017 dataset, one of the most comprehensive public datasets for network intrusion detection research.
 
-# Tech Stack
+## Tech Stack
 -Python (Jupyter Notebooks)
 
 -Pandas, NumPy, Scikit-learn
@@ -22,7 +22,7 @@ These models are trained and evaluated on the CIC-IDS2017 dataset, one of the mo
 
 -Matplotlib & Seaborn (for visualization)
 
-# Features
+## Features
 -Handles class imbalance using SMOTE
 
 -Trains multiple ensemble models for comparative evaluation
